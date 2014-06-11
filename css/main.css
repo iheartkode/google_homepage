@@ -1,0 +1,40 @@
+body {
+   font-family: serif; 
+}
+
+
+.search {
+  display: block;
+  position: relative;
+  top: 140px;
+  margin: auto;
+  width: 500px;
+  text-align: center;
+   
+}
+
+footer {
+  display: block;
+  position: relative;
+  text-align: center;
+  top: 180px;
+}
+
+nav {
+    display:block;
+    position: absolute;
+    right: -50px;
+    width: 400px;
+}
+
+nav li {
+    display: inline-block;
+    list-style: none;
+    
+}
+
+nav a {
+    color: black;
+    font-family: serif;
+    
+}
